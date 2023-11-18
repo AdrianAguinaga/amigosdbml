@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Create by AdrianRA
-
-This is a temporary script file.
+Low complexity neural network to analize EEG,ECG and Galvanic responses
 """
 
 import numpy as np
