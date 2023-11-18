@@ -21,7 +21,7 @@ tf.test.is_gpu_available(
     cuda_only=False, min_cuda_compute_capability=None
 )
 # Load the data
-df = pd.read_csv('c:/datos/Usuario5EEG.csv')
+df = pd.read_csv('Path of the csv file')
 
 # Replace NaN values with the mean of the column
 df.fillna(df.mean(), inplace=True)
