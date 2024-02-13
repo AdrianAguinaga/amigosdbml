@@ -3,6 +3,8 @@ This is a contribution of a neural network develop and optimized to analize mult
 
 Python program designed for analyzing electroencephalogram (EEG), electrocardiogram (ECG), and galvanic skin response data using a low-complexity neural network. It's structured to provide a comprehensive workflow for data preprocessing, model training, evaluation, and visualization. Here's a breakdown of its components:
 
+A sample to test can be downloaded in: https://filebin.net/tef9uvidqajcip81
+
 Import Libraries: It begins by importing necessary libraries such as numpy, pandas, sklearn, seaborn, matplotlib, and tensorflow. These libraries provide tools for data manipulation, machine learning model development, and visualization.
 
 Data Loading and Preprocessing:
